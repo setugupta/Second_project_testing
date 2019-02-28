@@ -1,0 +1,21 @@
+From fc48280714fe4cb769131deec4faf96a08bb51d5 Mon Sep 17 00:00:00 2001
+From: Kajal Gupta <Kajal.Gupta@gmail.com>
+Date: Thu, 28 Feb 2019 16:11:55 +0530
+Subject: [PATCH] changed user name to setu  as --global
+
+---
+ xyz | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/xyz b/xyz
+index e69de29..e7819ca 100644
+--- a/xyz
++++ b/xyz
+@@ -0,0 +1,4 @@
++sjkfhjksahf
++sfbsafhgbsajklfsafjsafbhksahfjklsa
++sfjhsafjkjsafisafhjksafhsa
++
+-- 
+2.17.1
+
